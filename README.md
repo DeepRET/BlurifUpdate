@@ -1,2 +1,0 @@
-# BlurifUpdate
-Blurifuscator Update
